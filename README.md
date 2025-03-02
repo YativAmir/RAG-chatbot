@@ -115,6 +115,3 @@ While there are no immediate plans for further enhancements due to the project's
 - **oldCodeVersion.py:**  
   This file is retained as a reference to earlier development stages. While it does not perform as well as the newer implementations, it provides valuable insights into the project’s evolution.
 
----
-
-Feel free to adjust or add any details to better reflect your vision and technical expertise.
