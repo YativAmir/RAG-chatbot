@@ -1,6 +1,6 @@
 # Civics Learning 2040
 
-Dive into a project that blends education and technology to transform how civics content is delivered. Originally developed as a freelance initiative, this repository leverages state-of-the-art NLP techniques—like document chunking, vector embeddings, and retrieval-augmented generation—to build an intelligent system for processing and retrieving educational material. It’s a showcase of modern approaches in AI, offering insights and tools that can inspire innovation for NLP engineers, AI researchers, and data scientists alike.\
+Dive into a project that blends education and technology to transform how civics content is delivered. Originally developed as a freelance initiative, this repository leverages state-of-the-art NLP techniques—like document chunking, vector embeddings, and retrieval-augmented generation—to build an intelligent system for processing and retrieving educational material. It’s a showcase of modern approaches in AI, offering insights and tools that can inspire innovation for NLP engineers, AI researchers, and data scientists alike.
 
 ## Project Overview
 
